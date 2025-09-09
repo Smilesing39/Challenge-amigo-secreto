@@ -23,4 +23,4 @@ JavaScript (ES6+): lógica del agregado de nombres, validación, sorteos y actua
 
 ## Dónde probar el juego
 
-
+https://smilesing39.github.io/Challenge-amigo-secreto/
