@@ -32,11 +32,11 @@ El juego del amigo secreto consiste en añadir nombres para crear un listado del
 
 ## Contenido
 
-HTML5: estructura básica del proyecto.
+HTML5: Estructura básica del proyecto.
 
-CSS3: diseño visual, colores y estilos responsivos.
+CSS3: Diseño visual.
 
-JavaScript (ES6+): lógica del agregado de nombres, validación, sorteos y actualización del DOM.
+JavaScript (ES6+): Programación básica para la inserción de nombres, su validación y el sorteo de los mismos.
 
 ## Dónde probar el juego
 
