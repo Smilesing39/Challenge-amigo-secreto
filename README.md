@@ -21,6 +21,6 @@ CSS3: diseño visual, colores y estilos responsivos.
 
 JavaScript (ES6+): lógica del agregado de nombres, validación, sorteos y actualización del DOM.
 
-## Dónde encontrar el proyecto
+## Dónde probar el juego
 
 
